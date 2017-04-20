@@ -1,2 +1,2 @@
-# discord-bots
-I assure you they're completely harmless
+# dice-bot
+I assure you it's completely harmless
