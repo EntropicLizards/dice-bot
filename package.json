@@ -1,0 +1,12 @@
+{
+  "name": "dice-bot",
+  "version": "0.0.1",
+  "description": "A Discord bot that allows users to roll dice and has absolutely zero functionality related to performing frontal lobotomies.",
+  "main": "index.js",
+  "repository": "git@github.com:EntropicLizards/dice-bot.git",
+  "author": "Chris Lohmann <chris@fractalp.net>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}
